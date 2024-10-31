@@ -1,5 +1,7 @@
 Yosef Belyatsky
+
 Design Verification Engineer
+
 [My LinkedIn](https://www.linkedin.com/in/yosef-belyatsky-5163a5173).
 
 <!---
